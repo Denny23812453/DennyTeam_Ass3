@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Menu/Scenes/Menu.unity
+    guid: 312855ea942bc314897486960b8a5e98
+  - enabled: 1
+    path: Assets/Zhiyuan Xiao/Assets/Scenes/ZhiyuanXiaoMenu.unity
+    guid: d398d12d10eda2945b89546f06c61c3d
+  - enabled: 1
+    path: Assets/Zhiyuan Xiao/Assets/Scenes/ZhiyuanXiaoGame.unity
+    guid: c5e1c2522aad3814ca6397c925a119cc
+  - enabled: 1
+    path: Assets/ZiWang/Assets/Scenes/ZiWangGame.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/ZiWang/Assets/Scenes/ZiWangMenu.unity
+    guid: d982f16da3659429e81eae5145b892b6
+  - enabled: 1
+    path: Assets/RujiangLi/assets/Scenes/RujiangLiGame.unity
+    guid: c626808819f72184e94106db422929b6
+  - enabled: 1
+    path: Assets/RujiangLi/assets/Scenes/RujiangLiMenu.unity
+    guid: c8413397fef451b439ab57f31a723bc1
+  - enabled: 1
+    path: Assets/Jingqi Shang/Assets/Scenes/JingqiShangGame.unity
+    guid: 73cbb1205f56d864bbb1b29c6658e8da
+  - enabled: 1
+    path: Assets/Jingqi Shang/Assets/Scenes/JingqiShangMenu.unity
+    guid: bf842ef3309da61408c73330d9651020
+  m_configObjects: {}
