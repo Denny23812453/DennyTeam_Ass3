@@ -1,6 +1,6 @@
 # DennyTeam_Ass3
-！！！Final project store in main branch！！！
-！！！play the game with 1024x768 resolution to ensure the scene is normal！！！
+<b>！！！Final project store in main branch！！！</b><br>
+<b>！！！play the game with 1024x768 resolution to ensure the scene is normal！！！</b><br>
 The file is a bit large and may take several minutes to open for the first time
 
 Team member:
